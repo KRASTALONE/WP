@@ -1,3 +1,6 @@
+<!--Write a simple program in PHP for 
+    i) generating Prime number ii) generate Fibonacci series.-->
+
 <?php
 
 // Function to generate prime numbers up to a given number

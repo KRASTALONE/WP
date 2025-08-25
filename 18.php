@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<!--Write a program in PHP for setting and retrieving a cookie.-->
+
 <html>
 <head>
     <title>Cookie Handler</title>

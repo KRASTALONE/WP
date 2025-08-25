@@ -1,5 +1,6 @@
+<!--Write a PHP program to Create a simple webpage of a college.-->
+
 // index.php
-<!DOCTYPE html>
 <html>
 <head>
     <title>Skyward Institute of Computer Applications</title>
@@ -46,7 +47,6 @@
 
 
 //about.html
-<!DOCTYPE html>
 <html>
 <head>
     <title>About Us - Skyward Institute of Computer Applications</title>
@@ -60,7 +60,6 @@
 
 
 //courses.php
-<!DOCTYPE html>
 <html>
 <head>
     <title>Courses - Skyward Institute of Computer Applications</title>
@@ -75,7 +74,6 @@
 
 
 contact.html
-<!DOCTYPE html>
 <html>
 <head>
     <title>Contact Us - Skyward Institute of Computer Applications</title>

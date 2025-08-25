@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<!--Write a program in PHP to read and write file using form control.-->
+
 <html>
 <head>
     <title>File Reader and Writer</title>

@@ -1,3 +1,5 @@
+<!--Write a PHP program to remove duplicates from a sorted list.-->
+
 <?php
 // Function to remove duplicates from an array
 function removeDuplicates($array) {

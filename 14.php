@@ -1,3 +1,5 @@
+<!--Write a Program to store and read image from Database.-->
+
 CREATE DATABASE myDB;
 USE myDB;
 

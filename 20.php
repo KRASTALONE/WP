@@ -1,3 +1,6 @@
+<!--Write a program in PHP for exception handling for 
+    i) divide by zero ii) checking date format.-->
+
 <?php
 // Exception handling for division by zero
 function divide($numerator, $denominator) {

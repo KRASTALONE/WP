@@ -1,3 +1,5 @@
+<!--Write a program in PHP to add, update and delete using student database.-->
+
 <?php
 // Establish database connection
 $conn = new mysqli("localhost", "root", "", "myDB");

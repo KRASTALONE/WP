@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<!--Write a program in PHP to Validate Input.-->
+
 <html>
 <head>
     <title>Input Validation</title>

@@ -1,3 +1,5 @@
+<!--Write a function in PHP to generate captcha code.-->
+
 <?php
 session_start();
 

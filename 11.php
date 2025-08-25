@@ -1,3 +1,10 @@
+<!--Write a PHP Script to print the following pattern on the Screen:
+    *****
+    ****
+    ***
+    **
+    *                   -->
+
 <?php
 // Total number of rows for the pattern
 $rows = 5;

@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+<!--Write a program in PHP to change background color based on 
+  day of the week using if else if statements and using arrays.-->
+
 <html>
 <head>
     <title>Color Change by Day</title>
